@@ -4,6 +4,8 @@
 
 ## Contains solution for Easy Skill Up Server from Discord 
 
+---
+
 - Set - 1
 1. Write a Java program to print an int, a double and a char on screen.
 2. Write a program to print the area of a rectangle of sides 2 and 3 units respectively.
@@ -13,6 +15,8 @@
 6. Write a program to add 3 to the ASCII value of the character 'd' and print the equivalent character.
 7. Write a program to add an integer variable having value 5 and a double variable having value 6.2.
 8. Write a program to find the square of the number 3.9.
+
+---
 
 - Set - 2
 1. Length and breadth of a rectangle are 5 and 7 respectively. Write a program to calculate the area and perimeter of the rectangle.
